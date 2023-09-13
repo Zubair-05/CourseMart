@@ -1,0 +1,9 @@
+[submodule "CourseMart-User-Dashboard"]
+	path = CourseMart-User-Dashboard
+	url = https://github.com/Zubair-05/CourseMart-User-Dashboard.git
+[submodule "CourseMart-Admin-Dashboard"]
+	path = CourseMart-Admin-Dashboard
+	url = https://github.com/Zubair-05/CourseMart-Admin-Dashboard.git
+[submodule "CourseMart-Backend"]
+	path = CourseMart-Backend
+	url = https://github.com/Zubair-05/CourseMart-Backend.git
